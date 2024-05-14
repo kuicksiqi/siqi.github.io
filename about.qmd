@@ -1,5 +1,25 @@
 ---
-title: "About"
+title: "Projects that I have done"
 ---
 
-About this site
+# Year 1 sem 2 
+
+## Object Oriented Project 
+
+For this project, we had to make a game for the purpose of teaching kids what are healthy foods and what are not. For this game we had to start out with a game engine and then built on the context. 
+
+### Whats the game like 
+
+The game we made it like snakes and ladders where there is an avatar that the player can control and move it up, down, left and right. The player's objective is to eat the healthy foods and avoid the unhealthy foods, if the players eats the healthy foods it will earn points if not the player will be stunned and deduct points, if the player doesn't have enough points by the time the game ends, the player will not be able to go to the next level.
+
+If you would like to see the project: [click this link.](https://github.com/neonphyte/healthy-game.git)
+
+### Some pictures of the game 
+
+![What the game looks like.](\docs\images\avatar.jpg)
+
+![Game over.](\docs\images\Gameover.jpg)
+
+![The next level.](\docs\images\level.jpg){width="80%:}
+
+

@@ -6,11 +6,16 @@ website:
   title: "temp_website"
   favicon: favicon.png
   navbar:
-    logo: logo.png
+    logo: \docs\SIT-logo.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: Project
+      - href: video.qmd
+        text: Fav movie
+      
+    
 
 format:
   html:

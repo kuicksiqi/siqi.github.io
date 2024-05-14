@@ -1,0 +1,9 @@
+---
+title: "My Favorite Movie"
+---
+
+My favorite movie is one of the Marvel movies, while there are many good marvel movies I think one of my favorites is the spiderman no way home movie as all the og spidermen appear in the movie.
+
+## Heres the trailer 
+
+{{< video https://youtu.be/rt-2cxAiPJk?si=XGWgzdcs-VQAtKBu >}}
