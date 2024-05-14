@@ -4,6 +4,27 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "All about me",
+    "section": "",
+    "text": "Gender: Female\nAge: 22\nDate of Birth: 09/ 09/ 2002\nOccupation: Student\nZodiac: Virgo♍\n\n\n\n\n\n\nSoup dumpling represents me 😊."
+  },
+  {
+    "objectID": "index.html#hi-my-name-is-kuick-siqi",
+    "href": "index.html#hi-my-name-is-kuick-siqi",
+    "title": "All about me",
+    "section": "",
+    "text": "Gender: Female\nAge: 22\nDate of Birth: 09/ 09/ 2002\nOccupation: Student\nZodiac: Virgo♍\n\n\n\n\n\n\nSoup dumpling represents me 😊."
+  },
+  {
+    "objectID": "index.html#a-little-backstory",
+    "href": "index.html#a-little-backstory",
+    "title": "All about me",
+    "section": "A little backstory",
+    "text": "A little backstory\nHalf of my life I have been travelling back and forth from Singapore to USA, more specifically Dallas, Texas."
   }
 ]
