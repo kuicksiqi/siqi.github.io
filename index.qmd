@@ -26,7 +26,7 @@ format:
 :::
 
 ::: {.column width="60%}
-![Soup dumpling represents me 😊.](\images\pug.jpg)
+![Soup dumpling represents me 😊.](/images/pug.jpg)
 
 :::
 ::::
